@@ -15,3 +15,4 @@
 #neo4j:5.26.0-community-bullseye
 bitnami/pgbouncer:1.24.0
 diouxx/glpi
+mariadb:10.7
