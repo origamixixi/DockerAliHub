@@ -10,4 +10,4 @@ kubesphere/kube-scheduler:v1.20.10
 coredns/coredns:1.7.0
 bitnami/etcd:3.4.13
 rancher/pause:3.2
-bitnami/postgresql:16.6.0
+mysql:9.3.0
