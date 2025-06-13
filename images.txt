@@ -3,10 +3,10 @@ diouxx/glpi
 mariadb:10.7
 mysql:8.0.36
 redis:5
-kubesphere/kube-apiserver:1.23.17
-kubesphere/kube-proxy:1.23.17
-kubesphere/kube-controller-manager:1.23.17
-kubesphere/kube-scheduler:1.23.17
+kubesphere/kube-apiserver:v1.23.17
+kubesphere/kube-proxy:v1.23.17
+kubesphere/kube-controller-manager:v1.23.17
+kubesphere/kube-scheduler:v1.23.17
 coredns/coredns:1.7.0
 bitnami/etcd:3.4.13
 rancher/pause:3.2
