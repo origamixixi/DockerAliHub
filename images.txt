@@ -12,3 +12,5 @@ bitnami/etcd:3.4.13
 rancher/pause:3.2
 postgres:16.8
 mysql:5.7.43
+apache/rocketmq:5.3.2
+rocketmq-dashboard:2.0.0
