@@ -13,4 +13,4 @@ rancher/pause:3.2
 postgres:16.8
 mysql:5.7.43
 apache/rocketmq:5.3.2
-apacherocketmq/rocketmq-dashboard:2.0.0
+apacherocketmq/rocketmq-dashboard:latest
