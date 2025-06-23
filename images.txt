@@ -1,1 +1,1 @@
-v5cn/prometheus-adapter
+v5cn/prometheus-adapter:v0.9.1
