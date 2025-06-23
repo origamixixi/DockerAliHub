@@ -1,1 +1,1 @@
-docker.io/calicocalico-pod2daemon-flexvol:v3.25.0
+v5cn/prometheus-adapter
