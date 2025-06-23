@@ -9,7 +9,7 @@ kubesphere/kube-controller-manager:v1.23.17
 kubesphere/kube-scheduler:v1.23.17
 coredns/coredns:1.7.0
 bitnami/etcd:3.4.13
-rancher/pause:3.2
+registry.k8s.io/pause:3.8
 postgres:16.8
 mysql:5.7.43
 apache/rocketmq:5.3.2
